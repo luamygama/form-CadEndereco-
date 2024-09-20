@@ -4,5 +4,8 @@
 
 //Função para limpar campos preenchidos
 const limparformulario = () => {
-
+    document.getElementById('logradouro').value = '';
+    document.getElementById('localidade').value = '';
+    document.getElementById('bairro').value = '';
+    document.getElementById('uf').value = '';
 }
