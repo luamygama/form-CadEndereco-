@@ -109,7 +109,7 @@ addEventListener é a maneira de registrar uma espera de evento como especificad
 # ❤️ veja a ilustração do meu projeto!
 
 ![Cad](img/cadstro.png)
-![Cad](img/cad.png)
+![Cad](img/cads.png)
 
 
 # 🎉 linkedin
