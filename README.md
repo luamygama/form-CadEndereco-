@@ -109,7 +109,8 @@ addEventListener é a maneira de registrar uma espera de evento como especificad
 # ❤️ veja a ilustração do meu projeto!
 
 <img src="img/cadstro.png" alt="Cad" width="600"/>
-<img src="img/cads.png" alt="Cad" width="600"/>
+<img src="img/cads.png" alt="Cad" style="max-width:100%; height:auto;"/>
+
 
 
 
